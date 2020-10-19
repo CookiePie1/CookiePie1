@@ -1,6 +1,6 @@
 # Remote learning at SBHS, and why it needs to continue
 
-#### **John Yang** - *Junior, South Brunswick High School*
+#### **John Yang** - *Junior, South Brunswick High School*. 18 October 2020
 
 <br>
 
