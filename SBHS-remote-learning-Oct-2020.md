@@ -1,5 +1,9 @@
 # Remote learning at SBHS, and why it needs to continue
 
+#### **John Yang** - *Junior, South Brunswick High School*
+
+<br>
+
 The COVID-19 pandemic has completely changed our lives overnight. In March, South Brunswick Schools closed and began using remote learning. 
 
 Online schooling began using an asynchronous model, meaning that teachers and students were not required to follow a set schedule of classes. This was the best option at the time, as it was the most logistically simple solution that still allowed students to continue learning at an acceptable level. It also took into account students who needed to share electronic devices with others, and also people whose internet connections would not be able to handle the load of online meetings. Everyone’s situation was totally unique, and the asynchronous model worked, especially since it began on short notice. 
@@ -53,3 +57,7 @@ In conclusion, remote learning has its pros and cons. For some students such as 
 <a name="four">4</a>: Lednicky, John A, et al. “Viable SARS-CoV-2 in the air of a hospital room with COVID-19 patients”. medRxiv 2020.08.03.20167395. DOI: https://doi.org/10.1101/2020.08.03.20167395.
 
 <a name="five">5</a>: Balachandar, S. et al. “Host-to-Host Airborne Transmission As a Multiphase Flow Problem For Science-Based Social Distance Guidelines”. arXiv. 13 August 2020; [arXiv:2008.06113v1](https://arxiv.org/abs/2008.06113v1).
+
+<br>
+
+Contact me: [johnyang5132004@gmail.com](mailto:johnyang5132004@gmail.com)
