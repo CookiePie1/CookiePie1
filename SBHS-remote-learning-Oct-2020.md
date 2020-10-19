@@ -16,9 +16,9 @@ School and district leadership made the move - courses would be graded on a pass
 
 As summer passed, that hope slowly but steadily diminished, and it became clear that we would not be going back to in person schooling for a very long time. The first days of school were again nothing like we might have ever expected, but in a different way. 
 
-This year, remote learning began in a synchronous model. Students now had to join online Zoom meetings to attend classes. This year, we were determined to make the most of our situation and achieve a high quality of education. 
+This year, remote learning began in a synchronous model. Students now had to follow a set schedule and join Zoom meetings for classes. Although there were several unknowns, we were optimistic and ready to make the most of our situation. 
 
-However, ncertainty reigned. Teachers weren’t completely sure how they might go about teaching their students over the internet, and students weren’t sure how they might learn. My teachers employed a wide variety of tools - screen shares, videos, breakout rooms, etc. And for the most part, the system worked. Students were given a good learning environment, and have many incentives to put in effort and ultimately learn. 
+However, uncertainty reigned. Teachers weren’t completely sure how they might go about teaching their students over the internet, and students weren’t sure how they might learn. My teachers employed a wide variety of tools - screen shares, videos, breakout rooms, etc. And for the most part, the system worked. Students were given a good learning environment, and have many incentives to put in effort and ultimately learn. 
 
 Back in August, plans were proposed to help ensure a safe and effective reopening, when it was possible. Parents could choose whether they were willing to send their kids to school or have them stay home. In early October, the planned date for hybrid reopening was set for November 16th, and parents were again given the same choice, via a survey on Genesis. 
 
